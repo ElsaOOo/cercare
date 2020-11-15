@@ -4,6 +4,18 @@
 
 ## 在命令行中搜索 markdown 文件并在命令行中显示
 
+## install global
+
+```shell
+npm i cercare -g
+```
+
+## 全局安装
+
+```shell
+npm i cercare -g
+```
+
 ### ?? what is this for
 
 #### when you were programming, you forgot the basic technical information. Each time you had to search in chrome web page. this is annoying. It is convenient to search what you want in terminal, because you use it most often.
