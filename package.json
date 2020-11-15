@@ -1,6 +1,6 @@
 {
   "name": "cercare",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "search in terminal",
   "main": "./src/index.js",
   "bin": {
