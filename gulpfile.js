@@ -8,6 +8,7 @@ gulp.task("minify", () =>
     .pipe(
       babel({
         presets: ["@babel/env"], // es5检查机制
+        plugins: ["@babel/transform-runtime"],
       })
     )
     // gulp-uglify 插件并不改变文件名
